@@ -1,0 +1,13 @@
+/* propiedades de la imagen de la consola */
+
+.imagenConsola{
+    width:  250px;
+    height: 250px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+.CopaMessi{
+    width: 400px;
+    height: 200px;
+}
