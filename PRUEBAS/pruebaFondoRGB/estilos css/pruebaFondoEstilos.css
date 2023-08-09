@@ -1,0 +1,14 @@
+/* fondo del body */
+.fondo{
+    background: linear-gradient(to left, red, blue, green );
+}
+
+/* titulo principal */
+.principal{
+    text-align: center;
+    margin-top: 30px;
+    text-shadow: 2px 3px 5px whitesmoke;
+    border: 5px solid yellow; /*estilo para los bordes*/
+    font-size: 50px;
+    padding: 30px;
+}
