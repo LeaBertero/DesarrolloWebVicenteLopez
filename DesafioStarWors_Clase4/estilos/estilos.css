@@ -16,6 +16,7 @@
 #Aumento_letra{
     /* tamaño de la fuente */
     font-size: 50px;
+    /* font-family: 'Caprasimo'; */
 }
 
 
@@ -53,4 +54,9 @@
 .fondo_img{
     background-image: url(../imagenes/space-1164579_1280.png);
     /* background-repeat:repeat; */
+}
+
+.color{
+    color: red;
+    text-shadow: 2px 5px 3px yellow;
 }
