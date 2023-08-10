@@ -1,18 +1,46 @@
 .losMalos{
+    /* color de fondo para los malos */
     background-color: red;
 }
 
 .losRebeldes{
+    /* Color de fondo */
     background-color: blue;
 }
 
 /* Cambio del tamaño de letra para Darth Vader */
 #Aumento_letra{
+    /* tamaño de la fuente */
     font-size: 50px;
 }
 
 
 /* cambio de estilo de letra para el nombre de Luke */
 #Luke{
-    font-family:;
+    /* estilo de fuente */
+    font-style: italic;
+}
+
+/* soldados */
+.soldados{
+    border: 10px dashed darkorange;
+    letter-spacing: 5px;
+}
+
+.apoyo{
+    text-align: center;
+}
+
+.Naves{
+    text-transform: uppercase;
+}
+
+.Droides{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fondo_img{
+    background-image: url(../imagenes/space-1164579_1280.png);
 }
