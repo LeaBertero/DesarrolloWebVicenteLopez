@@ -52,4 +52,5 @@
 /* imagen de fondo estrollado */
 .fondo_img{
     background-image: url(../imagenes/space-1164579_1280.png);
+    /* background-repeat:repeat; */
 }
