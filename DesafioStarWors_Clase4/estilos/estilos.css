@@ -16,6 +16,7 @@
 #Aumento_letra{
     /* tamaño de la fuente */
     font-size: 50px;
+    list-style: none; /*quita las viñetas*/
     /* font-family: 'Caprasimo'; */
 }
 
