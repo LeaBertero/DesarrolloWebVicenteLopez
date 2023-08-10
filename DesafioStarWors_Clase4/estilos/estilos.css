@@ -1,8 +1,12 @@
+
+/* estilos para el proyecto StarWors */
 .losMalos{
     /* color de fondo para los malos */
     background-color: red;
 }
 
+
+/* color de fondo para los rebeldes */
 .losRebeldes{
     /* Color de fondo */
     background-color: blue;
@@ -27,13 +31,17 @@
     letter-spacing: 5px;
 }
 
+/* clase apoyo - modificada */
 .apoyo{
     text-align: center;
 }
 
+
+/* imagenes de las naves */
 .Naves{
     text-transform: uppercase;
 }
+
 
 .Droides{
     display: flex;
@@ -41,6 +49,7 @@
     align-items: center;
 }
 
+/* imagen de fondo estrollado */
 .fondo_img{
     background-image: url(../imagenes/space-1164579_1280.png);
 }
