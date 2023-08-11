@@ -1,0 +1,20 @@
+/* estilos para el titiulo */
+.clase5{
+    color: bisque;
+    font-weight: bolder;
+    border: 2px solid black;
+    font-size: 40px;
+    background: linear-gradient(to top, red, blue, orange);
+    text-align: center;
+    padding: 20px;
+}
+
+.boton:active{
+    background-color: yellow;
+}
+
+.bted{
+    color: aqua;
+    font-weight: bolder;
+    font-size: 30px;
+}
