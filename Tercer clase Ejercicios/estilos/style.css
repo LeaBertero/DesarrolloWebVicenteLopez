@@ -11,6 +11,10 @@
     margin-top: 40px;
 }
 
+.fondo{
+    background-color: burlywood;
+}
+
 .titulo{
     background-color: red;
     font-size: 40px;
@@ -20,4 +24,25 @@
 .formulario{
     color: red;
     font-weight: bolder;
+}
+
+.input{
+    /* background-color: red; */
+    box-shadow: 2px 3px 5px blue;
+    font-size: 12px;
+    text-transform: uppercase;
+    /* text-overflow: ellipsis; */
+    margin-left: 10px;
+}
+
+.indicadores{
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 6%;
+}
+
+#btn-enviar{
+    font-weight: bolder;
+    text-shadow: 2px 3px 5px gold;
+    background-color: red;
 }
