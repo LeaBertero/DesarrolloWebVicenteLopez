@@ -10,3 +10,14 @@
     text-shadow: 2px 5px 3px black;
     margin-top: 40px;
 }
+
+.titulo{
+    background-color: red;
+    font-size: 40px;
+    color: bisque;
+}
+
+.formulario{
+    color: red;
+    font-weight: bolder;
+}
