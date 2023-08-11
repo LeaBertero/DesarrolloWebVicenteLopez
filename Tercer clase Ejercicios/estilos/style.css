@@ -1,0 +1,12 @@
+.Clase4{
+    color: whitesmoke;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 50px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid black;
+    background: linear-gradient(to top left, red, blue, orange);
+    text-shadow: 2px 5px 3px black;
+    margin-top: 40px;
+}
