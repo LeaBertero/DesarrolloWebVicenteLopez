@@ -61,3 +61,20 @@
     color: red;
     text-shadow: 2px 5px 3px yellow;
 }
+
+#LiderVader{
+   /* text-align: center; */
+   margin-left: 500px;
+   padding: 30px;
+   text-shadow: 2px 3px 5px whitesmoke;
+   font-weight: bolder; 
+}
+
+#LiderRebelde{
+    /* text-align: center; */
+    margin-left: 400px;
+    font-size: 50px;
+    padding: 30px;
+    text-shadow: 2px 3px 5px whitesmoke;
+    font-weight: bolder;
+}

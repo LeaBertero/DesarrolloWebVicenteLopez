@@ -1,0 +1,37 @@
+/* titulo principal */
+.clase3{
+    /* background-color: black; */
+    background: linear-gradient(to top, red, black, red);
+    border: 5px solid black;
+    text-align: center;
+    width: 200px;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 600px;
+    padding: 15px;
+    box-shadow: 2px 3px 5px red;
+    font-size: 35px;
+    font-weight: bolder;
+    font-style: italic;
+    text-shadow: 2px 3px 5px whitesmoke;
+    color: whitesmoke;
+}
+
+.back{
+    background-color: cornflowerblue;
+}
+
+.titulo{
+    background-color: red;
+}
+
+#subtitulo{
+    font-size: 30px;
+    color: aquamarine;
+}
+.parrafo{
+    background-color: blue;
+}
+
+
+
