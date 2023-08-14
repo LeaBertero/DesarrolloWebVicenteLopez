@@ -1,24 +1,3 @@
-.centrar{
-    text-align: center;
-    /* border: 2px solid blue; */
-    width:600px;
-}
-
-.titulo{
-    text-align: center;
-    border: 2px solid blue;
-    width: 500px;
-    margin-left: 450px;
-    /* padding-top: ; */
-    background: linear-gradient(to right, orange, red, green);
-    color: azure;
-    text-shadow: 2px 3px 5px black;
-    box-shadow: 2px 3px 5px black ;
-}
-
-.input{
-    color: red;
-    font-weight: bolder;
-    font-size: 20px;
-    /* box-shadow: 2px 3px 5px solid blue; */
+.fondo{
+    background-color: slategrey;
 }

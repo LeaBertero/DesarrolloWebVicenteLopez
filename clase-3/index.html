@@ -2,10 +2,10 @@
 <html class="fondo" lang="en">
 
 <head>
-    
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+
     <title>formularios</title>
 
     <link rel="stylesheet" href="./css/style.css">
@@ -15,19 +15,68 @@
 <body>
 
     <h1 class="titulo">Ingrese sus datos completando el siguiente formulario</h1>
-    
 
-    <form class="centrar" action="">
 
-        Nombre de usuario
-        <input placeholder="Nombre de usuario" class="input" type="text">
-        E-mail
-        <input name="email" placeholder="E-mail" class="input" type="email">
-        Contraseña
-        <input name="contraseña" placeholder="contraseña" class="input" type="password">
-        <input type="submit" class="btnEnviar">
+    <form method="post" action="loging">
+
+        <input class="input" type="text" name="nombre" placeholder="nombre">
+
+        <br>
+
+        <label for="pass">Contraseña</label>
+        <input id="pass" type="password" name="contraseña">
+
+        <br>
+
+        <label for="">
+            E-mail:
+            <input type="email" name="email" placeholder="email">
+        </label>
+
+        <br>
+
+        <label for="sede">Elegi la sede donde queres estudiar</label>
+
+
+        <select name="sede" id="sede">
+
+            <option value="atr">A tu ritmo</option>
+            <option value="pal">Palermo</option>
+            <option value="itu">Ituzaingo</option>
+            <option value="chi">Chile</option>
+
+        </select>
+
+        <br>
+
+        <label for="">
+            Turnos:
+
+            <select name="turno" id="">
+                <option value="noche"></option>  
+                <option value="tarde"></option>
+                <option value="mañana"></option>
+            </select>
+
+            <br>
+
+            <input type="submit">
+            <br>
+
+        </label>
+
+        <!-- <input type="submit"> -->
+
+        <label for="">
+            
+        </label>
+        
+        <button type="submit">Enviar</button>
+
+
     </form>
 
 
 </body>
+
 </html>
