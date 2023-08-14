@@ -5,6 +5,14 @@
     background-color: red;
 }
 
+/* imagenes */
+.Imagenes{
+  /* display: flex;
+  justify-content: center; */
+
+  margin-left: 500px;
+}
+
 
 /* color de fondo para los rebeldes */
 .losRebeldes{
@@ -77,8 +85,15 @@
 }
 
 
+.img_soldados{
+    display: flex;
+    justify-content: center;
+}
 
 
+.tanque{
+    margin-left: 350px;
+}
 
 /* Lider: Luke Skywalker */
 #LiderLuke  {
