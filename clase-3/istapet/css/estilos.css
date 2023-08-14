@@ -1,0 +1,30 @@
+.formulario{
+     display: flex; 
+    justify-content: center;
+}
+
+.titulo{
+    /* text-align: center; */
+    border: 5px solid blue;
+    /* width: 400px;    */
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+    font-size: 50px;
+    background-color: red;
+    text-shadow: 2px 3px 5px black;
+}
+
+.btn{
+    background-color: red;
+    color: white;
+    text-shadow: 2px 3px 5px black;
+    padding: 12px;
+    font-weight: bold;
+    font-family: serif;
+    font-size: 20px;
+}
+
+.back{
+    background-color: burlywood;
+}
