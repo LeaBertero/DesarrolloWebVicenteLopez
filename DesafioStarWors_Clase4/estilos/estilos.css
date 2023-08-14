@@ -62,19 +62,33 @@
     text-shadow: 2px 5px 3px yellow;
 }
 
+
+/* Lider: Darth Vader */
 #LiderVader{
-   /* text-align: center; */
-   margin-left: 500px;
-   padding: 30px;
-   text-shadow: 2px 3px 5px whitesmoke;
-   font-weight: bolder; 
+    /* text-align: center; */
+    /* color: black; */
+    margin-left: 350px;
+    padding: 30px;
+    font-size: 80px;
+    text-shadow: 2px 3px 20px whitesmoke;
+    font-weight: bolder; 
+    color: gray;
+    
 }
 
-#LiderRebelde{
+
+
+
+
+/* Lider: Luke Skywalker */
+#LiderLuke  {
     /* text-align: center; */
-    margin-left: 400px;
-    font-size: 50px;
+    margin-left: 300px;
+    font-size: 70px;
     padding: 30px;
+    /* background-color: black; */
     text-shadow: 2px 3px 5px whitesmoke;
     font-weight: bolder;
+    color: greenyellow;
+    height: 2px;
 }
