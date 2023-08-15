@@ -1,0 +1,50 @@
+.titulo{
+    text-align: center;
+    text-shadow: 2px 3px 5px red;
+    border: 2px solid black;
+    width: 300px;
+    margin-left: 45rem;
+    padding: 20px 12px;
+    font-size: 40px;
+    background-color: wheat; 
+}
+
+/* color de fondo */
+.back{
+    background:linear-gradient(to top, red, green, orange);
+}
+
+.sub-encabezado{
+    font-weight: bolder;
+    color: aliceblue;
+    font-size: 50px;
+    margin: 20px 30px 25px;
+}
+
+.parrafo{
+    border: 2px solid red;
+    padding: 20px 30px;
+    color: wheat;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 30px;
+    /* text-align: center; */
+}
+
+.listas{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.titulo-listas{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 40px;
+    border: 2px solid whitesmoke;
+    padding: 20px;
+    width: 350px;
+    margin-left: 650px;
+    color:white;
+    background-color: red;
+    text-shadow: 2px 3px 5px black;
+}
